@@ -7,6 +7,7 @@ nav{
 }
 
 h1{
+    text-align: center;
     color: rgb(0, 72, 13);
 }
 
@@ -15,11 +16,32 @@ h2{
 }
 
 h3{
- color: black;
+    font-size: larger;
+    color: black;
 }
 
 p{
     color: black;
+}
+
+img{
+    width: 100%;
+}
+
+th{
+    font-size:x-large;
+}
+
+td{
+    font-size:x-large;
+}
+
+.TH69{
+    width: 69%;
+}
+
+.TH29{
+    width: 29%;
 }
 
 .navTable{
@@ -27,7 +49,7 @@ p{
 }
 
 .imageTable{
-    width: 50%;
+    width: 100%;
 }
 
 .navLink{
@@ -46,9 +68,22 @@ p{
 .navLink>a{
     display: block;
     width: 100%;
+    font-size: x-large;
 }
 
 
 .navLink>a:hover{
     color: white;
+}
+
+.rightTd{
+    background-color: lightblue;
+}
+
+#week01{
+    background-color: gray;
+}
+
+#week02{
+    background-color: aqua;
 }
