@@ -6,6 +6,35 @@ nav{
  background-color: beige;
 }
 
+table{
+    width: 100%;
+}
+
+tr{
+    width: 100%;
+}
+
+div{
+    width: auto;
+}
+
+ul{
+    width: auto;
+}
+
+form{
+    width: auto;
+}
+
+label{
+    font-size: larger;
+}
+
+input{
+    background-color: gainsboro;
+    font-size: x-large;
+}
+
 h1{
     text-align: center;
     color: rgb(0, 72, 13);
