@@ -1,5 +1,25 @@
+body{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+ background-color: beige;
+}
+
 h1{
     color: rgb(0, 72, 13);
+}
+
+h2{
+    color: darkblue;
+}
+
+h3{
+ color: black;
+}
+
+p{
+    color: black;
 }
 
 .navTable{
@@ -11,8 +31,24 @@ h1{
 }
 
 .navLink{
+    background-color: aqua;
     width:16.66%;
     text-align: center;
     border: 2px solid black;
+    border-radius: 10px;
     margin: auto 20px;
+}
+
+.navLink:hover{
+    background-color: black;
+}
+
+.navLink>a{
+    display: block;
+    width: 100%;
+}
+
+
+.navLink>a:hover{
+    color: white;
 }
