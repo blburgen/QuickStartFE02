@@ -1,0 +1,18 @@
+h1{
+    color: rgb(0, 72, 13);
+}
+
+.navTable{
+    width: 100%;
+}
+
+.imageTable{
+    width: 50%;
+}
+
+.navLink{
+    width:33%;
+    text-align: center;
+    border: 2px solid black;
+    margin: auto 20px;
+}
