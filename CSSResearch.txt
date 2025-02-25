@@ -1,0 +1,25 @@
+CSS Research
+Prompts:
+1.  What are CSS grid and flexbox? When might you use one over the other?
+2.  Explore the use of CSS custom properties (variables) and their benefits in managing reusable styles and theming. Research how CSS variables can improve code maintainability and enable dynamic styling changes.
+3.  Investigate the role of CSS in ensuring sufficient contrast and color accessibility for users with visual impairments. Research techniques for implementing accessible color schemes.
+4.  Investigate the usage and benefits of CSS selectors. Research the different types of selectors, such as element selectors, class selectors, ID selectors, and pseudo-classes. Explore how selectors allow you to target specific elements orgroups of elements for styling. Provide examples of common use cases for each type of selector and best practices for writing efficient and maintainable CSS selectors.
+5.  Explore the CSS box model and its significance in determining the layout and spacing of elements on a webpage. Research the components of the box model, including content, padding, border, and margin
+
+Purpose:
+This research assignment aims to extend your knowledge beyond the course curriculum by delving into relevant topics and familiarizing you with online resources commonly used in professional settings.
+As developers, conducting research is an integral part of our job, and while the saying that 90% of software development is "Googling" may be an exaggeration, search engines are indeed indispensable tools in the software development role.
+A recommended resource to start your research is the JavaScript web documentation (MDN), but there are numerous other valuable sources available as well!
+
+Instructions:
+1.  Choose at least two (2) of the prompts provided.
+2.  Conduct research on the chosen prompts.
+3.  Write at least one paragraph for each of the selected prompts.
+4.  Include the URLs of the sources you used to cite your information.
+
+Please note:
+Avoid copying and pasting text directly from the internet or any other sources.
+Utilize the information you gather during your research as a foundation, summarizing the concepts in your own words to aid in understanding and retention.
+
+Submission
+This research activity is designed to deepen your understanding beyond the course curriculum and strengthen your ability to find and interpret technical information.  While you are not required to submit it, we highly encourage you to complete the tasks to enhance your research, analysis, and summarization skills. These skills are essential for real-world development work, where continuous learning and effective use of online resources play a crucial role.
